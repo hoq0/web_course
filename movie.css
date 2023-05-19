@@ -88,7 +88,7 @@
 }
 
 .block2{
-    justify-content:right;
+    justify-content:left;
     display: flex;
     flex-wrap: wrap;
     width:100%;
