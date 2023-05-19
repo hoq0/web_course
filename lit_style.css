@@ -224,8 +224,8 @@
         height: 400px;
       }
       .block2_img p{
-        margin: 3px;
-        font-size: 11px;
+        margin: 5px;
+        font-size: 12px;
     }
 }
 @media screen and (max-width: 625px) {
