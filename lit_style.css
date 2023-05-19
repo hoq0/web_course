@@ -200,7 +200,7 @@
       }
       .block2_img p{
         margin: 5px;
-        font-size: 14px;
+        font-size: 12px;
     }
     .block2_t p{
         font-size: 16px;
@@ -221,7 +221,7 @@
       }
       .block2_img p{
         margin: 3px;
-        font-size: 14px;
+        font-size: 12px;
     }
 }
 @media screen and (max-width: 625px) {
