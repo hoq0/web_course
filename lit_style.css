@@ -162,7 +162,7 @@
   }
 
   .block2_img p{
-    margin: 20px;
+    margin: 10px;
     color:rgb(191, 232, 232);
     font-size: 17px;
     font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
@@ -179,6 +179,10 @@
     }
     .block2_t p{
         font-size: 17px;
+    }
+     .block2_img p{
+        margin: 3px;
+        font-size: 12px;
     }
 }
 @media screen and (max-width: 850px) {
@@ -199,7 +203,7 @@
         height: 430px;
       }
       .block2_img p{
-        margin: 5px;
+        margin: 3px;
         font-size: 11px;
     }
     .block2_t p{
